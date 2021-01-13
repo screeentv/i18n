@@ -1,4 +1,4 @@
-import { messages as en } from './en';
+import { en } from './en';
 
 export const messages = {
 	en,
