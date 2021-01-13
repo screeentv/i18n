@@ -1,0 +1,21 @@
+{
+  "name": "i18n",
+  "version": "0.1.1",
+  "description": "Community localisation support for screeen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/screeentv/i18n.git"
+  },
+  "homepage": "https://github.com/screeentv/i18n",
+  "bugs": "https://github.com/screeentv/i18n/issues",
+  "author": {
+		"name": "nurodev",
+		"email": "me@nuro.dev",
+		"url": "https://nuro.dev"
+	},
+  "license": "MIT",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ]
+}
