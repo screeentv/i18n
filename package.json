@@ -9,10 +9,10 @@
   "homepage": "https://github.com/screeentv/i18n",
   "bugs": "https://github.com/screeentv/i18n/issues",
   "author": {
-		"name": "nurodev",
-		"email": "me@nuro.dev",
-		"url": "https://nuro.dev"
-	},
+    "name": "nurodev",
+    "email": "me@nuro.dev",
+    "url": "https://nuro.dev"
+  },
   "license": "MIT",
   "main": "src/index.js",
   "files": [
